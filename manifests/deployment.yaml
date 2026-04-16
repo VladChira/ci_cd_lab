@@ -1,4 +1,3 @@
-student@cc-lab:~/ci_cd_lab$ cat manifests/deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
